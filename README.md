@@ -3,7 +3,30 @@
 
 
 <h1 align="center">Hi 👋, I'm Siddhartha Jaisi Gautam</h1>
-<h3 align="center"> Backend developer </h3>
+<h3 align="center">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/django.png" width="40" height="40" /> 
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" height="40" />
+  At MoreTech Global, I serve as a Junior Backend Developer, focusing on creating robust and scalable backend systems using Django and Python.
+</h3>
+
+<h3 align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40" /> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40" />
+  <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40" />
+  My skill set includes a wide range of programming languages such as HTML, CSS, React.js, and JavaScript.
+</h3>
+
+<h3 align="center">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/mysql-logo.png" width="40" height="40" /> 
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="40" height="40" />
+  I am proficient in managing databases like MySQL, PostgreSQL ensuring top-notch performance and reliability.
+</h3>
+
+<h3 align="center">
+  <img src="https://img.icons8.com/fluent/48/000000/project-management.png" width="40" height="40" />
+  With comprehensive knowledge in both backend and frontend technologies, I oversee projects from start to finish, fostering innovation and maintaining excellence in all endeavors.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhartgautam&label=Profile%20views&color=0e75b6&style=flat" alt="sidhartgautam" /> </p>
 
@@ -33,7 +56,7 @@
 <a href="https://linkedin.com/in/siddhartha gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhartha gautam" height="30" width="40" /></a>
 <a href="https://fb.com/sidarth.gautam.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sidarth.gautam.5" height="30" width="40" /></a>
 <a href="https://instagram.com/itsme_lynchsiddhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsme_lynchsiddhu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codezensiddhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codezensiddhu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codezensiddhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codezensiddhu" height="30" width="40" /></a>
 <a href="https://discord.gg/siddhudon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="siddhudon" height="30" width="40" /></a>
 </p>
 
